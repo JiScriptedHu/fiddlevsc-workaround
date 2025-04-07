@@ -6,7 +6,13 @@ Please check requirements to use.
 
 ## Features
 
-This is a fiddle extension made for vs code, and it is first version. Actually it is a workaround version, using CLI to run fiddle. For now it can run fiddle from our local machine only.
+This is a fiddle extension made for vs code, and it is first version. Actually it is a workaround version, using CLI to run fiddle.
+
+For now it can run fiddle from our local machine only.
+As fiddle-core takes default branch as master which is changed by Github to main
+
+Issue mentioning the same:
+https://github.com/electron/fiddle-core/issues/38
 
 ## Requirements
 
