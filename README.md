@@ -12,13 +12,21 @@ This is a fiddle extension made for vs code, and it is first version. Actually i
 
 1. Install electron/fiddle-core globally on your local machine:
 
+```ts
 npm install -g @electron/fiddle-core
+```
 
 2. Set Execution Policy to unrestricted
 
-For current user : Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+For current user :
+```ts
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+```
 
-for local machine : Set-ExecutionPolicy Unrestricted -Scope LocalMachine
+for local machine :
+```ts
+Set-ExecutionPolicy Unrestricted -Scope LocalMachine
+```
 
 ## Known Issues
 
